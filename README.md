@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,Excel Vba**
 
-- 💬 Ask me about **SQL, Advance Excel**
+- 💬 Ask me about **SQL, Advance Excel, Data Visualisation, Dashboards**
 
 - 📫 How to reach me **Shubhrantshukla45@gmail.com**
 
